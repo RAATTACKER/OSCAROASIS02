@@ -39,6 +39,8 @@ pkg install tor -y
 pkg install git -y
 pkg install python pip install neovim
 pkg install neovim -y
+~/OSCAROASIS
+ls
 unzip kepo.zip
 unzip kepo1.zip
 unzip kepo2.zip
@@ -49,6 +51,9 @@ rm -rf kepo1.zip
 rm -rf kepo2.zip
 rm -rf kepo3.zip
 rm -rf kepo4.zip
+mv 20190430_052815.jpg /sdcard
+mv RAATTACKER.jpg /sdcard
+mv LOGO.jpg /sdcard
 fi
 
 if [ $act = 22 ] || [ $act = 22  ]
