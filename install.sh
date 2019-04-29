@@ -39,6 +39,7 @@ pkg install tor -y
 pkg install git -y
 pkg install python pip install neovim
 pkg install neovim -y
+
 fi
 
 if [ $act = 22 ] || [ $act = 22  ]
@@ -47,4 +48,6 @@ echo " TERIMA KASIH SUDAH MENGINSTALL NYA "
 sleep 1
 echo " BY: ØSC4R O`4S1S "
 sleep 1
+
+cat pemberitahuan.txt
 exit
