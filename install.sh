@@ -39,7 +39,7 @@ pkg install tor -y
 pkg install git -y
 pkg install python pip install neovim
 pkg install neovim -y
-~/OSCAROASIS
+~/OSCAROASIS02
 ls
 unzip kepo.zip
 unzip kepo1.zip
