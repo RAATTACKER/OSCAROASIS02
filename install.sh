@@ -57,11 +57,14 @@ mv LOGO.jpg /sdcard
 fi
 
 if [ $act = 22 ] || [ $act = 22  ]
-then
+
+clear
 echo " TERIMA KASIH SUDAH MENGINSTALL NYA "
 sleep 1
 echo " BY: ØSC4R O`4S1S "
 sleep 1
+clear
+echo " SIMAK BAIK BAIK YA GUYS "
 
 cat pemberitahuan.txt
 
